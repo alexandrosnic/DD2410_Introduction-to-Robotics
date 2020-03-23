@@ -26,7 +26,7 @@ Along with the demos, you will be questioned about basic concepts of the solutio
 #### Task E: Pick&Carry&Place without sensory input
 In this scenario, TIAGo is expected to pick an Aruco cube from a known pose on top of table 1, navigate towards table 2 behind it and place the object there. The cameras and laser scan cannot be used for this level.
 
-[![E](https://imgur.com/H7LWQ4q)](https://eu.nv.instructuremedia.com/fetch/QkFoYkIxc0hhUU54d0Fvd2JDc0gzbVo2WGc9PS0tNWNjYzkzMjBhNzc4YjRmZjM1ZmRkYmQxNWI4NGY0MDU4NTAzOGM5ZQ.mp4)
+[Task E video](https://eu.nv.instructuremedia.com/fetch/QkFoYkIxc0hhUU54d0Fvd2JDc0gzbVo2WGc9PS0tNWNjYzkzMjBhNzc4YjRmZjM1ZmRkYmQxNWI4NGY0MDU4NTAzOGM5ZQ.mp4)
 
 Implement a state machine which goes through the following main states:
 
@@ -43,7 +43,7 @@ Evaluation:
 #### Task C: Pick&Carry&Place with visual sensing
 The task is the same as above. However this time the camera sensor in TIAGo's head has to be used to detect the cube. After, compute a grasp, transport the marker and verify that it has been placed on the second table. You will implement this logic in the form of a behavior tree this time.
 
-(https://eu.nv.instructuremedia.com/fetch/QkFoYkIxc0hhUU4xd0Fvd2JDc0gxV2w2WGc9PS0tOWUzYmU3YmYzNDBiMjU5OTM0YzIxN2RmYjJhZmQwNDM2MGIyZDRiZg.mp4)
+[Task C video](https://eu.nv.instructuremedia.com/fetch/QkFoYkIxc0hhUU4xd0Fvd2JDc0gxV2w2WGc9PS0tOWUzYmU3YmYzNDBiMjU5OTM0YzIxN2RmYjJhZmQwNDM2MGIyZDRiZg.mp4)
 
 Implement a behavior tree which goes through the following main states:
 
@@ -62,7 +62,7 @@ Evaluation:
 #### Task A: Pick&Carry&Place with sensing and navigation
 Pick&Carry&Place with visual sensing and navigation: in this third level, the robot starts in an unknown pose and must make use of its sensors and a prior map of the room to transport the cube safely among rooms.
 
-<iframe src='//gifs.com/embed/robotics-assignment5-e-k8PMpK' frameborder='0' scrolling='no' width='640px' height='360px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
+[Task A video](https://eu.nv.instructuremedia.com/fetch/QkFoYkIxc0hhUU41d0Fvd2JDc0g5V2w2WGc9PS0tOTkzY2YwMWNlY2U0MzYzNzg2NTdmMTk5ZTkyMTgyNTExYThkNjMzYg.mp4)
 
 Implement a behavior tree that goes through the following main states:
 
