@@ -7,11 +7,20 @@ A 3 DOF scara robot, with an inverse kinematic solution that is possible in anal
 
 [Scara Robot Video](https://youtu.be/rsxZDhXIY-Q)
 
+![](scara_explanation_large.png)
+
+![](scara_values_large.png)
+
+
 To visualize Scara, run: 
 
         roslaunch kinematics_assignment scara_launch.launch
 
 * Kuka Robotic:
+
+![](kuka_info_large.png)
+
+![](kuka_DH_large.png)
 
 [KUKA Robot Video](https://youtu.be/A-MGo2cvHNs)
 
