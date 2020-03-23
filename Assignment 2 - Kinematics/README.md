@@ -5,11 +5,16 @@ Download the file [Assignment_2_kinematics.zip](https://drive.google.com/file/d/
 * Scalar Robotic:
 A 3 DOF scara robot, with an inverse kinematic solution that is possible in analytic form.
 
+[Scara Robot Video](https://youtu.be/rsxZDhXIY-Q)
+
 To visualize Scara, run: 
 
         roslaunch kinematics_assignment scara_launch.launch
 
 * Kuka Robotic:
+
+[KUKA Robot Video](https://youtu.be/A-MGo2cvHNs)
+
 Solving this part will guarantee the best grade 
 
 To visualize Kuka, run: 
