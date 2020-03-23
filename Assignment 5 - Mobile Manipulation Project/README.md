@@ -26,7 +26,7 @@ Along with the demos, you will be questioned about basic concepts of the solutio
 #### Task E: Pick&Carry&Place without sensory input
 In this scenario, TIAGo is expected to pick an Aruco cube from a known pose on top of table 1, navigate towards table 2 behind it and place the object there. The cameras and laser scan cannot be used for this level.
 
-[E](https://j.gifs.com/k8PMpK.gif)
+[![E](https://imgur.com/H7LWQ4q)](https://eu.nv.instructuremedia.com/fetch/QkFoYkIxc0hhUU54d0Fvd2JDc0gzbVo2WGc9PS0tNWNjYzkzMjBhNzc4YjRmZjM1ZmRkYmQxNWI4NGY0MDU4NTAzOGM5ZQ.mp4)
 
 Implement a state machine which goes through the following main states:
 
