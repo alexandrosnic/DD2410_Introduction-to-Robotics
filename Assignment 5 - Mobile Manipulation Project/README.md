@@ -62,7 +62,7 @@ Evaluation:
 #### Task A: Pick&Carry&Place with sensing and navigation
 Pick&Carry&Place with visual sensing and navigation: in this third level, the robot starts in an unknown pose and must make use of its sensors and a prior map of the room to transport the cube safely among rooms.
 
-(https://eu.nv.instructuremedia.com/fetch/QkFoYkIxc0hhUU41d0Fvd2JDc0g5V2w2WGc9PS0tOTkzY2YwMWNlY2U0MzYzNzg2NTdmMTk5ZTkyMTgyNTExYThkNjMzYg.mp4)
+<iframe src='//gifs.com/embed/robotics-assignment5-e-k8PMpK' frameborder='0' scrolling='no' width='640px' height='360px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
 
 Implement a behavior tree that goes through the following main states:
 
